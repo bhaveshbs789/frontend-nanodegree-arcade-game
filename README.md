@@ -9,6 +9,14 @@ For detailed instructions on how to get started, check out this [guide](https://
 
 ### How to play the Game 
 
+#### First Step to Playing the Game is to Clone/Download the repository for the game.
+
+```
+	https://github.com/bhaveshbs789/frontend-nanodegree-arcade-game.git
+```
+* _Running the above command would clone the game_ to a directory/folder named as frontend-nanodegree-arcade-game
+* _Navigate to the folder where the repository was cloned and run the index.html file using your Chrome/Mozilla browser_
+
 * Everytime the user loads the game 3 bugs would start running across
    the screen at varying speeds :smile: .
 
