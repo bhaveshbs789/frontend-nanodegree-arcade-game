@@ -17,6 +17,8 @@ For detailed instructions on how to get started, check out this [guide](https://
 * _Running the above command would clone the game_ to a directory/folder named as frontend-nanodegree-arcade-game
 * _Navigate to the folder where the repository was cloned and run the index.html file using your Chrome/Mozilla browser_
 
+===============GAME PLAY===========
+
 * Everytime the user loads the game 3 bugs would start running across
    the screen at varying speeds :smile: .
 
